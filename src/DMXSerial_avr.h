@@ -36,7 +36,7 @@
 // These definitions are used on ATmega8 boards
 #define UCSRnA UCSRA // Control and Status Register A
 #define TXCn TXC // Transmit buffer clear
-
+#define RXCn RXC
 #define UCSRnB UCSRB // USART Control and Status Register B
 
 #define RXCIEn RXCIE // Enable Receive Complete Interrupt
